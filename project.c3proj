@@ -12,6 +12,20 @@
 			"name": "Sprite",
 			"author": "Scirra",
 			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "jumpthru",
+			"name": "Pular através",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "shadowcaster",
+			"name": "Projetor de sombra",
+			"author": "Scirra",
+			"bundled": false
 		}
 	],
 	"uniqueId": "2q1xdi4yopf",
@@ -54,7 +68,19 @@
 			"Sprite33",
 			"Sprite34",
 			"Sprite35",
-			"Sprite36"
+			"Sprite36",
+			"Sprite37",
+			"Sprite38",
+			"Sprite39",
+			"Sprite40",
+			"Sprite41",
+			"Sprite42",
+			"Sprite43",
+			"Sprite44",
+			"Sprite45",
+			"Sprite46",
+			"Sprite47",
+			"Sprite48"
 		],
 		"subfolders": []
 	},
