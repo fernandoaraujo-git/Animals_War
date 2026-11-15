@@ -4,7 +4,15 @@
 	"sid": 767078423705065,
 	"isGlobal": false,
 	"editorNewInstanceIsReplica": true,
-	"instanceVariables": [],
+	"instanceVariables": [
+		{
+			"name": "Dado",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 888503736495012
+		}
+	],
 	"behaviorTypes": [],
 	"effectTypes": [],
 	"animations": {
