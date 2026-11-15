@@ -11,20 +11,6 @@
 			"desc": "",
 			"show": true,
 			"sid": 871086447944971
-		},
-		{
-			"name": "Escada2",
-			"type": "string",
-			"desc": "",
-			"show": true,
-			"sid": 836580930670368
-		},
-		{
-			"name": "Escada3",
-			"type": "string",
-			"desc": "",
-			"show": true,
-			"sid": 261512157524634
 		}
 	],
 	"behaviorTypes": [],
