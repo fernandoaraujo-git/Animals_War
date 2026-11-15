@@ -1598,7 +1598,9 @@
 					"uid": 45,
 					"sid": 959987788384292,
 					"tags": "",
-					"instanceVariables": {},
+					"instanceVariables": {
+						"Dado": "dado-lindo"
+					},
 					"behaviors": {},
 					"materialSurfaceType": "smooth",
 					"showing": true,
@@ -1608,6 +1610,120 @@
 						"y": 62,
 						"width": 99,
 						"height": 89,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"z": 0,
+						"angle": 0
+					}
+				},
+				{
+					"type": "Sprite43",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 46,
+					"sid": 813411356957253,
+					"tags": "",
+					"instanceVariables": {
+						"Escada1": "escada_01",
+						"Escada2": "Escada_02",
+						"Escada3": "escada_03"
+					},
+					"behaviors": {},
+					"materialSurfaceType": "smooth",
+					"showing": true,
+					"locked": false,
+					"world": {
+						"x": 793,
+						"y": 572,
+						"width": 152,
+						"height": 182,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"z": 0,
+						"angle": 0
+					}
+				},
+				{
+					"type": "Sprite43",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 47,
+					"sid": 439693735673389,
+					"tags": "",
+					"instanceVariables": {
+						"Escada1": "escada_01",
+						"Escada2": "Escada_02",
+						"Escada3": "escada_03"
+					},
+					"behaviors": {},
+					"materialSurfaceType": "smooth",
+					"showing": true,
+					"locked": false,
+					"world": {
+						"x": 380,
+						"y": 451,
+						"width": 152,
+						"height": 182,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"z": 0,
+						"angle": 0
+					}
+				},
+				{
+					"type": "Sprite43",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 48,
+					"sid": 388972288793525,
+					"tags": "",
+					"instanceVariables": {
+						"Escada1": "escada_01",
+						"Escada2": "Escada_02",
+						"Escada3": "escada_03"
+					},
+					"behaviors": {},
+					"materialSurfaceType": "smooth",
+					"showing": true,
+					"locked": false,
+					"world": {
+						"x": 1004,
+						"y": 362,
+						"width": 152,
+						"height": 182,
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
