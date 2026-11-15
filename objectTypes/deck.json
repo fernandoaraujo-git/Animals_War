@@ -1,0 +1,52 @@
+{
+	"name": "deck",
+	"plugin-id": "Sprite",
+	"sid": 652476140438057,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 450,
+						"height": 350,
+						"originX": 0.40667976424361485,
+						"originY": 0.5115942028985507,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 838440,
+						"collisionPoly": {
+							"points": [
+								0.0006548788474132206,
+								0.0014492753623188692,
+								1,
+								0.0014492753623188692,
+								1,
+								0.9985507246376811,
+								0.0006548788474132206,
+								0.9985507246376811
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 765108272423704,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

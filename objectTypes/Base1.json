@@ -1,0 +1,68 @@
+{
+	"name": "Base1",
+	"plugin-id": "Sprite",
+	"sid": 412412290390776,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "Base1",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 931508996782244
+		}
+	],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 40,
+						"height": 40,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 5120939,
+						"collisionPoly": {
+							"points": [
+								0.33933933933933935,
+								0,
+								0.978978978978979,
+								0.0782608695652174,
+								0.996996996996997,
+								0.8,
+								0.9069069069069069,
+								0.9971014492753624,
+								0.2012012012012012,
+								1,
+								0.012012012012012012,
+								0.9246376811594202,
+								0.003003003003003003,
+								0.8347826086956521,
+								0.09009009009009009,
+								0.011594202898550725
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 232614676749978,
+				"name": "BaseOne",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

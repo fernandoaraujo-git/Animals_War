@@ -1,0 +1,66 @@
+{
+	"name": "Sprite26",
+	"plugin-id": "Sprite",
+	"sid": 321860669471931,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "B26",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 701579206544527
+		}
+	],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 333,
+						"height": 344,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 6787481,
+						"collisionPoly": {
+							"points": [
+								0.34534534534534533,
+								0,
+								0.9819819819819819,
+								0.07267441860465117,
+								1,
+								0.7906976744186046,
+								0.9069069069069069,
+								1,
+								0.015015015015015015,
+								0.9418604651162791,
+								0,
+								0.8226744186046512,
+								0.09009009009009009,
+								0.011627906976744186
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 657663498808896,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
