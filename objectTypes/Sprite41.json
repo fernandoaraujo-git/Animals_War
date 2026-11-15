@@ -1,0 +1,70 @@
+{
+	"name": "Sprite41",
+	"plugin-id": "Sprite",
+	"sid": 436315908167240,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "Mamaco",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 997575427642890
+		}
+	],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 120,
+						"height": 120,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 7917834,
+						"collisionPoly": {
+							"points": [
+								0.535,
+								0.096875,
+								0.625625,
+								0.110625,
+								0.825,
+								0.3875,
+								0.719375,
+								0.79375,
+								0.63875,
+								0.888125,
+								0.35625,
+								0.891875,
+								0.18375,
+								0.76375,
+								0.196875,
+								0.336875,
+								0.38,
+								0.18
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 517285921096153,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

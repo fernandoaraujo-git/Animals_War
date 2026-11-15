@@ -1,0 +1,66 @@
+{
+	"name": "Sprite40",
+	"plugin-id": "Sprite",
+	"sid": 261671216004342,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "Trigi",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 287362904488135
+		}
+	],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 120,
+						"height": 120,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 3700291,
+						"collisionPoly": {
+							"points": [
+								0.709375,
+								0.17,
+								0.863125,
+								0.50125,
+								0.565,
+								0.8975,
+								0.33875,
+								0.876875,
+								0.2525,
+								0.70875,
+								0.220625,
+								0.425,
+								0.284375,
+								0.13375
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 418173930716204,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

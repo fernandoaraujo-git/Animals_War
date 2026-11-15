@@ -1,0 +1,66 @@
+{
+	"name": "Sprite39",
+	"plugin-id": "Sprite",
+	"sid": 585162109835269,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "hipopotamo",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 112178048771455
+		}
+	],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 120,
+						"height": 120,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 1604100,
+						"collisionPoly": {
+							"points": [
+								0.78625,
+								0.174375,
+								0.730625,
+								0.821875,
+								0.5225,
+								0.85375,
+								0.220625,
+								0.79375,
+								0.115625,
+								0.536875,
+								0.22625,
+								0.35,
+								0.478125,
+								0.17
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 620650363611762,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
