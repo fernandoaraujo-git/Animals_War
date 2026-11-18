@@ -4,7 +4,15 @@
 	"sid": 652476140438057,
 	"isGlobal": false,
 	"editorNewInstanceIsReplica": true,
-	"instanceVariables": [],
+	"instanceVariables": [
+		{
+			"name": "Deck",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 773952544890246
+		}
+	],
 	"behaviorTypes": [],
 	"effectTypes": [],
 	"animations": {
